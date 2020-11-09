@@ -1,0 +1,24 @@
+{
+    "strings":
+    {
+        "BELL_BODY_NAME" : "Brasshole",
+        "CLAYBRUISER_BODY_NAME": "Clay Fucker",
+	    "VULTURE_BODY_NAME" : "Assy Vulture",
+        "NULLIFIER_BODY_NAME" : "The Final Succ",
+
+        "ELITE_MODIFIER_FIRE": "HOTS {0}",
+        "BEETLEQUEEN_BODY_NAME": "Queetle Been",
+
+        "HUNTRESS_BODY_SUBTITLE" : "Dummy Thicc",
+        "MAGE_BODY_SUBTITLE" : "Low-Key Thicc",
+        "LOADER_BODY_SUBTITLE" : "Bionic Powerhouse (also low-key thicc)",
+        "CROCO_BODY_SUBTITLE" : "Poison Pup",
+
+        "CLAYBOSS_BODY_NAME": "Clay Dudestrider",
+        "ROBOBALLBOSS_BODY_SUBTITLE" : "Guardian of REDD REDD RED-RED-RED!",
+        "MAGMAWORM_BODY_SUBTITLE": "ADHD Annelid",
+        "DRONE_MEGA_BODY_NAME": "HE HE BIG BOI",
+        "SHOPKEEPER_BODY_NAME": "Newt Boi",
+        "BROTHER_BODY_SUBTITLE" : "All Consuming Lord of Cum. Dick. Heir of the Cum Throne.",
+    }
+}

@@ -1,0 +1,30 @@
+ {
+	strings:
+	{
+    "ITEM_BEAR_NAME": "Tougher Times (but the first letters are swapped)",
+    "ITEM_BEHEMOTH_NAME": "Brilliant Behemoth (but the first letters are swapped)",
+    "ITEM_HOOF_NAME": "Haul's Poat Goof",
+    "ITEM_CHAINLIGHTNING_NAME": "Mekulele",
+    "ITEM_MUSHROOM_NAME": "Bungus",
+    "ITEM_JUMPBOOST_NAME": "Quax Wail",
+    "ITEM_REGENONKILL_NAME" : "FRESH MEAT",
+    "ITEM_REGENONKILL_PICKUP" : "MEAT!",
+    "ITEM_EXPLODEONDEATH_NAME": "Ori and the Will-o'-the-wisps",
+    "ITEM_SYRINGE_NAME": "Drugs",
+    "ITEM_AUTOCASTEQUIPMENT_PICKUP": "Dramatically reduce Equipment cooldown... <color=#FF7F7F>\BUT you can't look at the Newt.</color>",
+    "ITEM_BLEEDONHITANDEXPLODE_NAME" : "Splattersheen",
+
+
+    "ITEM_ATTACKSPEEDONCRIT_NAME": "Wobbly Snoot",
+    "ITEM_ATTACKSPEEDONCRIT_PICKUP": "Should not have had such a grab-able snoot.",
+
+    "ITEM_CRITGLASSES_NAME": "Mens Laker Glasses",
+    "ITEM_CRITGLASSES_PICKUP": "Mens Laker Glasses",
+
+    "ITEM_LUNARDAGGER_NAME": "Shaped Ass",
+    "ITEM_LUNARDAGGER_PICKUP": "Eat ass. Smoke grass. Sled fast. <color=#FF7F7F>Shaped Glass.</color>",
+
+    "ITEM_NEARBYDAMAGEBONUS_NAME": "Plumbob Millionare",
+    "ITEM_TREASURECACHE_PICKUP": "You need 25 of these for a 50% chance of a legendary."
+	}
+}

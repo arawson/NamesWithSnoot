@@ -1,0 +1,11 @@
+{
+	"name": "Names With Snoot",
+	"version_number": "0.0.1",
+	"website_url": "",
+	"description": "Personalized Names for Risk of Rain 2. No, they don't make any sense.",
+	"dependencies": [
+	  	"bbepis-BepInExPack-3.2.0",
+		"tristanmcpherson-R2API-2.4.21",
+		"Harb-AssetPlusRequester-1.0.0"
+	]
+}

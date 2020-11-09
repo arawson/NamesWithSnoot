@@ -1,0 +1,11 @@
+{
+    "strings":
+    {
+        "SURVIVOR_POD_HATCH_OPEN_CONTEXT": "The one you risk and the same you play",
+
+        "SHRINE_BOSS_NAME": "Weird Symbol",
+        "SHRINE_BOSS_CONTEXT": "Hmmmm, Weird Symbol over the Teleporter...",
+        "SHRINE_BOSS_USE_MESSAGE_2P": "<style=cShrine>You have found a weird symbol..</color>",
+	    "SHRINE_BOSS_USE_MESSAGE": "<style=cShrine>{0} has found a weird symbol..</color>"
+    }
+}
