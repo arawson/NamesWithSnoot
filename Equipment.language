@@ -6,6 +6,8 @@
         "EQUIPMENT_METEOR_NAME": "Team Griefer",
         "EQUIPMENT_METEOR_PICKUP": "HOLY FUCK WE'RE ALL GOING TO DIE",
         "EQUIPMENT_FRUIT_NAME": "Foreign Fjuit",
-        "EQUIPMENT_TONIC_NAME" : "Stronger Drugs"
+        "EQUIPMENT_TONIC_NAME" : "Stronger Drugs",
+        "EQUIPMENT_BOSSHUNTERCONSUMED_CHAT": "AHOY!!!",
+        "EQUIPMENT_MULTISHOPCARD_PICKUP": "Gain cash back 10% of the time all of the time. Multishops remain open.",
     }
 }
