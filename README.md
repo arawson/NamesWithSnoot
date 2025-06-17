@@ -13,5 +13,9 @@ Uncommon:
 Predatory Instincts -> Wobbly Snoot
 
 ## Updates
+
 0.0.1: First version, what more could you want?
+
 0.0.2: New ideas from playing Survivors of the Void
+
+0.0.3: Even more bad name ideas (and a few descriptions too) for Seekers of the Storm.

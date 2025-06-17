@@ -2,8 +2,14 @@
 	strings:
 	{
     "ITEM_BEAR_NAME": "Tougher Times (but the first letters are swapped)",
+    "ITEM_BEARVOID_NAME": "Safer Spaces (but the first letters are swapped)",
     "ITEM_BEHEMOTH_NAME": "Brilliant Behemoth (but the first letters are swapped)",
+    "ITEM_PERMANENTDEBUFFONHIT_NAME": "Symbiotic Scorpion (but the first letters are swapped)",
+    "ITEM_MOVESPEEDONKILL_NAME": "Hunter's Harpoon (but the first letters are swapped)",
+    "ITEM_LUNARSECONDARYREPLACEMENT_NAME": "Hooks of Heresy (but the first letters are swapped)",
+    "ITEM_CLOVERVOID_NAME": "Benthic Bloom (but the first letters are swapped)",
     "ITEM_HOOF_NAME": "Haul's Poat Goof",
+    "ITEM_HOOF_PICKUP": "Haul ass, goof!",
     "ITEM_CHAINLIGHTNING_NAME": "Mekulele",
     "ITEM_JUMPBOOST_NAME": "Quax Wail",
     "ITEM_REGENONKILL_NAME" : "FRESH MEAT",
@@ -35,6 +41,29 @@
 
     "ITEM_MUSHROOMVOID_NAME": "Wungus",
 
-    "ITEM_ATTACKSPEEDANDMOVESPEED_PICKUP" : "Legal drugs."
+    "ITEM_ATTACKSPEEDANDMOVESPEED_PICKUP" : "Legal drugs.",
+
+    "ITEM_WARCRYONMULTIKILL_NAME": "Bazinga Pauldron",
+
+    "ITEM_INCREASEDAMAGEONMULTIKILL_PICKUP": ";-)",
+
+    "ITEM_CRITGLASSESVOID_PICKUP": "Gain a 0.5% chance to Vine Boom a non-boss enemy. <style=cIsVoid>Corrupts all Lens-Maker's Glasses</style>.",
+
+    "ITEM_IMMUNETODEBUFF_NAME": "Ren's Banecoat",
+
+    "ITEM_MOREMISSILE_PICKUP": "Is that an AtG in your pocket or are you just happy to see me?",
+
+    "ITEM_DRONEWEAPONS_NAME": "Colonel Droneman?",
+    "ITEM_DRONEWEAPONS_PICKUP": "Colonel Droneman.",
+
+    "ITEM_PRIMARYSKILLSHURIKEN_PICKUP": "Weeb.",
+
+    "ITEM_SPRINTARMOR_NAME": "_BOSE‾™ Ruckler",
+
+    "ITEM_BEETLEGLAND_PICKUP": "OwO",
+
+    "ITEM_BLEEDONHIT_NAME": "Try Tip-Dagger!",
+
+    "ITEM_REPEATHEAL_NAME": "Blorpsecoom"
 	}
 }
